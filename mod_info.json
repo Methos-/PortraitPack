@@ -1,0 +1,8 @@
+{
+	"id":"11dPortraitPack", # internal id
+	"name":"Elevendys Portrait Pack", # displayed to the player
+	"author":"Elevendy",
+	"version":"1.0",
+	"description":"fuck you",
+	"gameVersion":"0.95.1a-RC6",
+}
